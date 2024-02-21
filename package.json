@@ -1,0 +1,15 @@
+{
+  "name": "typescript_repositorymodel_skeleton",
+  "version": "1.0.0",
+  "description": "Um esqueleto inicial para um projeto que usa a estrutura repository / class para acessar dados. Esse exemplo poderá ser facilmente adaptado para a leitura de dados de uma api e servir de ponto de partida para um CRUD completo em node js com typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
